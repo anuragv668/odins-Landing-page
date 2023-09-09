@@ -15,7 +15,6 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #1f2937;
-  color: #f9faf8;
 }
 
 .navbar {
@@ -34,4 +33,31 @@ ul.nav-links {
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero-text {
+ display: flex;
+ flex-direction: column;
+ flex-wrap: wrap;
+}
+
+.hero-main-text {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+
+.hero-sub-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.hero-img {
+  justify-content: center;
+  align-items: center;
 }
