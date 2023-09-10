@@ -160,3 +160,48 @@ button.hero-sign-up {
   font-weight: 900;
   margin-left: auto;
 }
+
+/* Fourth section */
+
+.sign-up-sec {
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+.sign-up-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3882f6;
+  width: 1000px;
+  height: 150px;
+  border-radius: 10px;
+  gap: 150px;
+}
+.sign-up-content {
+  display: flex;
+  flex-direction: column;
+}
+.sign-up-heading {
+  font-size: 25px;
+  font-weight: 700;
+  color: #f9faf8;
+}
+.sign-up-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.sign-up-button {
+  color: #f9faf8;
+  background-color: #3882f6;
+  border: 2px solid white;
+  width: 130px;
+  height: 35px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
