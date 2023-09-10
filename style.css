@@ -98,6 +98,7 @@ button.hero-sign-up {
   height: 500px;
   align-items: center;
   justify-content: center;
+  gap: 50px;
 }
 .wall-heading {
   font-size: 36px;
@@ -106,16 +107,24 @@ button.hero-sign-up {
 }
 
 .img-series {
-
+  display: flex;
+  gap: 50px;
 }
 .img-block {
-
+  display: flex;
+  flex-direction: column;
+  width: 170px;
+  gap: 15px;
 }
 .img-border {
-
+  height: 170px;
+  width: 170px;
+  border: 4px solid #3882f6;
+  border-radius: 15px;
 }
 .img-desc {
-
+  color: grey;
+  font-size: 18px;
 }
  /*third section*/
 .quote-sec {
