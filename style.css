@@ -51,7 +51,7 @@ li a {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 500px;
+  height: 480px;
 }
 .hero-text {
  display: flex;
@@ -100,7 +100,7 @@ button.hero-sign-up {
 .img-wall {
   display: flex;
   flex-direction: column;
-  height: 500px;
+  height: 480px;
   align-items: center;
   justify-content: center;
   gap: 50px;
@@ -133,7 +133,7 @@ button.hero-sign-up {
 }
  /*third section*/
 .quote-sec {
-  height: 500px;
+  height: 480px;
   background-color: #e5e7eb;
   display: flex;
   align-items: center;
@@ -165,7 +165,7 @@ button.hero-sign-up {
 
 .sign-up-sec {
   display: flex;
-  height: 500px;
+  height: 480px;
   justify-content: center;
   align-items: center;
 }
