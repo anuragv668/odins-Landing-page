@@ -88,3 +88,26 @@ button.hero-sign-up {
   justify-content: center;
   align-items: center;
 }
+
+/*second section*/
+
+.img-wall {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  align-items: center;
+  justify-content: center;
+}
+.wall-heading {
+
+}
+
+.img-series {
+
+}
+
+ /*third section*/
+.quote {
+  height: 500px;
+  background-color: #e5e7eb;
+}
