@@ -204,4 +204,17 @@ button.hero-sign-up {
   font-size: 18px;
   font-weight: bold;
 }
+/*footer section*/
+
+.footer {
+  height: 100px;
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-text {
+  font-size: 18px;
+  color: #f9faf8;
+}
 
